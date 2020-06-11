@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #6078EA;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    max-width: 75%;
+}
+
+.btn {
+    background: #6078EA;
+    color: #fff;
+    box-shadow: none;
+    border-radius: 25px;
+}
+
+.btn:hover {
+    border: 2px solid #6078EA;
+    background: #fff;
+    color: #6078EA;
+}
